@@ -109,9 +109,10 @@ Made with ♥️and ☕️by `author`_ and `company`_.
 .. |GitHub issues| image:: https://img.shields.io/github/issues/labpositiva/docker-python-tesseract.svg
    :target: https://github.com/labpositiva/docker-python-tesseract/issues
 .. |Wercker| image::
-             https://app.wercker.com/status/642f4288274e91f723ec2ecf7c03966c/s/ 'wercker status'
-  :target: https://app.wercker.com/project/byKey/642f4288274e91f723ec2ecf7c03966c
+             https://app.wercker.com/status/99e09c794d242b83dc5dbfae597f23c9/s/ 'wercker status'
+  :target: https://app.wercker.com/project/byKey/99e09c794d242b83dc5dbfae597f23c9
   :alt: wercker status
+
 .. |license| image:: https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square
   :target: LICENSE
   :alt: License
